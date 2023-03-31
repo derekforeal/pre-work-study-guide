@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this study guide simply review the notes in each section. If you would a suggestion on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). Panel should open on the side or bottom of your screen. You will see a list of topics covered in the study guide as well as a suggestion of which topic to study first.
+To use this study guide simply review the notes in each section. If you would like a suggestion on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A panel should open on the side or bottom of your screen. You will see a list of topics covered in the study guide as well as a suggestion of which topic to study first.
 
 ## Credits
 
